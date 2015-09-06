@@ -9,7 +9,8 @@ In this notebook, we look into the first degree social-network of the given-user
 Interactive-Graphics using R and ShinyApps: 
 https://balaca.shinyapps.io/Twitter_Graph
 
-PageRank and Clustering in Ego-Network: http://nbviewer.ipython.org/github/balaca/twitter_graph/blob/master/1.%20TwitterAPI_Pagerank_Clustering.ipynb
+PageRank and Clustering in Ego-Network:
+http://nbviewer.ipython.org/github/balaca/twitter_graph/blob/master/1.%20TwitterAPI_Pagerank_Clustering.ipynb
 
 Visualising Data: 
 http://nbviewer.ipython.org/github/balaca/twitter_graph/blob/master/2.%20Visualise_Data.ipynb
